@@ -1,0 +1,8 @@
+nav.menu{
+	position: fixed;
+}
+
+nav.menu ul.full-box li > a{
+	text-decoration: none ;
+	
+}

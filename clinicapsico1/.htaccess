@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine on
+ErrorDocument 404 /clinicapsico/404.php
+
+
+
